@@ -1,4 +1,41 @@
 # 📚 The Future of Learning is Here! 🚀  
 
-In this mind-blowing tutorial, we’ll build a **Next-Gen AI-Powered LMS (Learning Management System)** that has the potential to revolutionize online education.  
-Built completely with the **MERN Stack**, this full-stack app is designed to showcase real-world SaaS-level features such as AI-powered search, Google authentication, payments, and interactive dashboards. Perfect for your **portfolio or resume**!  
+A **Next-Gen AI-Powered LMS** built with the **MERN Stack** featuring AI search, Google authentication, payments, and modern dashboards. Perfect for your **portfolio or startup idea**!  
+
+---
+
+## 🔗 Resources  
+- **Source Code:** [Click Here](https://rzp.io/rzp/a6fuOcDF)  
+- **Free Assets:** [Google Drive](https://drive.google.com/drive/folder...)  
+
+---
+
+## ✨ Key Features  
+- 🧠 AI-Powered Smart Search (Gemini)  
+- 🔐 Google Authentication  
+- 💳 Razorpay Payment Gateway  
+- ⚛️ Redux Toolkit State Management  
+- 📚 Student & Instructor Dashboards  
+- 🖥️ Fully Responsive UI  
+
+---
+
+## 🛠️ Tech Stack  
+
+| Layer        | Technology Used                          |
+|--------------|------------------------------------------|
+| **Frontend** | React.js, Tailwind CSS, Redux Toolkit    |
+| **Backend**  | Node.js, Express.js, MongoDB             |
+| **Auth**     | Google OAuth 2.0                         |
+| **Payments** | Razorpay                                 |
+| **AI**       | Gemini / OpenAI API                      |
+
+---
+
+## ⚡ Getting Started  
+
+```bash
+git clone <repo-url>
+cd project-folder
+npm install
+npm run dev
