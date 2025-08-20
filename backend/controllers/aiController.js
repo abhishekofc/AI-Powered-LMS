@@ -44,7 +44,8 @@ Query: ${input}
 
     const courses = await Course.find({
       isPublished: true,
-     $or: [
+     $or: [  
+//comparing title with keyword using regex
     { title: { $regex: input, $options: 'i' } },
     { subTitle: { $regex: input, $options: 'i' } },
     { description: { $regex: input, $options: 'i' } },
