@@ -1,13 +1,6 @@
 # 📚 The Future of Learning is Here! 🚀  
 
 A **Next-Gen AI-Powered LMS** built with the **MERN Stack** featuring AI search, Google authentication, payments, and modern dashboards. Perfect for your **portfolio or startup idea**!  
-
----
-
-## 🔗 Resources  
-- **Source Code:** [Click Here](https://rzp.io/rzp/a6fuOcDF)  
-- **Free Assets:** [Google Drive](https://drive.google.com/drive/folder...)  
-
 ---
 
 ## ✨ Key Features  
