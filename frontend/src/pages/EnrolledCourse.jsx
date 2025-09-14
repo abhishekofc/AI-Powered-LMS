@@ -10,10 +10,6 @@ function EnrolledCourse() {
 
   const { userData } = useSelector((state) => state.user);
 
-     
-   
- 
-
   return (
     <div className="min-h-screen w-full px-4 py-9 bg-gray-50">
       
